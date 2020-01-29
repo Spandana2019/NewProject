@@ -6,3 +6,4 @@ HashMap map size = 2 <br>
 HashMap contains Test = true <br>
 HashMap map1 size = 1 <br>
 HashMap contains Test = true
+Success
