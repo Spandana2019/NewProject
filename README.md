@@ -1,4 +1,4 @@
-The output of the program is <br>
+The output of the program New Project is <br>
 Result of comparision : true <br>
 HashSet size = 1  <br>
 HashSet contains Test = true <br>
